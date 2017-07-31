@@ -1,0 +1,5 @@
+__pycache__/
+data/
+course3_downloads/
+*.zip
+slides/
