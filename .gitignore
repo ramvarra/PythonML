@@ -3,3 +3,4 @@ data/
 course3_downloads/
 *.zip
 slides/
+.ipynb_checkpoints/
